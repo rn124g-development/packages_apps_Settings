@@ -192,4 +192,7 @@
     <!-- Advanced sound settings -->
     <string name="sound_settings_advanced_title">Additional sounds</string>
 
+    <!-- Screenshot shutter sound  -->
+    <string name="screenshot_shutter_sound_title">Screenshot sound</string>
+
 </resources>
